@@ -28,6 +28,12 @@ int main()
     cout << "Jurusan saya Teknik Informatika" << endl;
     return 0;
 }
+```
+
+## 🎯 Tujuan Program
+- Melatih dasar penggunaan iostream dalam C++
+- Mengenal struktur program C++
+- Menampilkan output teks ke terminal
 
 Hanif
 Mahasiswa — tugas perkenalan C++
