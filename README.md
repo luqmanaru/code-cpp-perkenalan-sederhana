@@ -11,3 +11,6 @@ Ini adalah program sederhana yang saya buat menggunakan bahasa pemrograman **C++
 - Bahasa: C++
 - Compiler: G++ / MinGW / GCC (bisa disesuaikan)
 - Editor: Visual Studio Code / Code::Blocks / lainnya
+
+Hanif
+Mahasiswa — tugas perkenalan C++
