@@ -35,5 +35,8 @@ int main()
 - Mengenal struktur program C++
 - Menampilkan output teks ke terminal
 
+---
+
 Hanif
+
 Mahasiswa — tugas perkenalan C++
